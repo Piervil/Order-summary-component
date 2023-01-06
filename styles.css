@@ -51,6 +51,9 @@ body {
   justify-content: space-evenly;
   margin: 0 7px;
   align-items: center;
+  background-color: hsla(0, 0%, 94%, 0.687);
+  border-radius: 15px;
+  padding: 10px 0;
 }
 
 .card__plan img {
